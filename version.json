@@ -1,6 +1,6 @@
 {
-  "build": 2,
-  "version": "1.0.1",
-  "apk": "https://github.com/YasinMohammadMasmoudi/rammsondierung_releases/releases/download/v1.0.1/rammsondierung.apk",
-  "notes": "Automatische Update-Funktion"
+  "build": 4,
+  "version": "1.0.3",
+  "apk": "https://github.com/YasinMohammadMasmoudi/rammsondierung_releases/releases/download/v1.0.3/rammsondierung.apk",
+  "notes": "Fehlerbehebung bei der Update-Installation"
 }
