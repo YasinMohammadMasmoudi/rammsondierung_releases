@@ -1,6 +1,6 @@
 {
-  "build": 5,
-  "version": "1.0.4",
-  "apk": "https://github.com/YasinMohammadMasmoudi/rammsondierung_releases/releases/download/v1.0.4/rammsondierung.apk",
-  "notes": "Lizenztypen: diese App akzeptiert nur noch Ramme-Lizenzschlüssel."
+  "build": 6,
+  "version": "1.0.5",
+  "apk": "https://github.com/YasinMohammadMasmoudi/rammsondierung_releases/releases/download/v2.0.0/rammsondierung.apk",
+  "notes": "Gesperrte Lizenzschlüssel werden jetzt erkannt. Die Zugangsdaten bleiben erhalten, nach dem Entsperren geht es ohne Neuaktivierung weiter."
 }
